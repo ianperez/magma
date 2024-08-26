@@ -1,5 +1,5 @@
 # ModSentinel
-## A Robust Open-Source Package Manager for Game Mods
+## A Robust Open-Source and Cross-Platform Package Manager for Game Mods
 
 ModSentinel is a free and open-source package manager designed for ease and stability. It allows you to effortlessly install and manage mods for your favorite Bethesda games (Elder Scrolls, Fallout series) with planned expansion to other titles in the future.
 
@@ -22,8 +22,8 @@ We welcome contributions from the community! This project is licensed under the 
 
 ## Technology Stack
 
-Backend: Python (FastAPI, Pydantic, MongoDB)
-Frontend: React Native (planned)
+- Backend: Python (FastAPI, Pydantic, MongoDB)
+- Frontend: React Native (planned)
 
 ## Future Plans
 
