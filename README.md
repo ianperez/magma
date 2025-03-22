@@ -1,7 +1,7 @@
-# ModSentinel
-## A Robust Open-Source and Cross-Platform Package Manager for Game Mods
+# MAGMA
+## MAGMA is an Advanced Game Mod Automator
 
-ModSentinel is a free and open-source package manager designed for ease and stability. It allows you to effortlessly install and manage mods for your favorite Bethesda games (Elder Scrolls, Fallout series) with planned expansion to other titles in the future.
+MAGMA is a free and open-source package manager designed for ease and stability. It allows you to effortlessly install and manage mods for your favorite games (Elder Scrolls, Fallout series) with planned expansion to other titles in the future.
 
 ## Key Features
 
@@ -35,4 +35,4 @@ Integrate with existing modding communities and tools.
 
 TBD
 
-We're excited to see how you use ModSentinel to enhance your gaming experience!
+We're excited to see how you use MAGMA to enhance your gaming experience!
